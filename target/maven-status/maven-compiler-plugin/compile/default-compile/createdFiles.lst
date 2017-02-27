@@ -1,0 +1,17 @@
+com\dbs\controller\CatalogController.class
+com\dbs\controller\KeyValuePair.class
+com\dbs\app\Application.class
+com\dbs\controller\ServiceBindingController.class
+com\dbs\model\Service.class
+com\dbs\repository\ServiceRepository.class
+com\dbs\controller\ServiceInstanceController.class
+com\dbs\service\CustomHashMap$KeyValuePair.class
+com\dbs\repository\ServiceBindingRepository.class
+com\dbs\repository\ServiceInstanceRepository.class
+com\dbs\service\HashService.class
+com\dbs\service\CustomHashMap.class
+com\dbs\model\ServiceBinding.class
+com\dbs\model\Credentials.class
+com\dbs\controller\HashMapController.class
+com\dbs\model\Plan.class
+com\dbs\model\ServiceInstance.class

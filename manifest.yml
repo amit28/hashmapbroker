@@ -1,0 +1,6 @@
+---
+applications:
+- name: cf-broker-service
+  memory: 512M
+  path: target/cf-broker-service-0.0.1-SNAPSHOT.jar
+  buildpack: java_buildpack
